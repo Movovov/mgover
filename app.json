@@ -22,7 +22,7 @@
       {
         "elem_tit": " The Ultimate Beginner’s Guide",
         "elem_image": "https://jayisgames.com/images/coc/clash_of_clans_tutorial2.png",
-        "txt_color": #e31058,
+        "txt_color": "#e31058",
         "txt_size": "18",
         "link": false,
 	"link_titl": "Gems",
@@ -33,28 +33,28 @@
 \n\n⚡ When attacking, deploy high hitpoint units in front of high damage units. Save “medium” ones for the middle of the fight.
 \n\n⚡ Be prepared to fight super high level enemy clan castle defenders. Lure to a corner, and then a ring of archers with wizards on the outside works well.
 \n\n⚡ Clear some side buildings first with small squads so your main army walks straight into the main enemy base. This is called “funneling.”
-\n\n⚡ Don’t rush your town hall unless you know what you are doing."
+\n\n⚡ Don’t rush your town hall unless you know what you are doing.",
 	"native": false,
-	"background":#415c21
+	"background":"#415c21"
       },
      {
         "elem_tit": "The Fundamentals of Attacking",
         "elem_image": "https://jayisgames.com/images/coc/Clash_of_clans_extractorsLvL5.jpg",
-        "txt_color": #e31058,
+        "txt_color":"#e31058",
         "txt_size": "18",
         "link": false,
 	"link_titl": "Gems",
 	"linkUrl": "https://www.google.com",
         "img_link": "https://www.google.com",
         "text": " \n\n⚡ The main essence of this game, and the part we will therefore start with, is attacking. When you attack an enemy base, you steal resources from any resource buildings that you destroy. This is the main way to progress in the game. However, those buildings will be defended by enemy towers and traps! In order to have a successful attack, you will need to use your troops efficiently against the enemy defenses.
-\n\n⚡ Before we talk about how to perform a good attack, IT IS CRITICAL that you take your time using the “next” button to find a base that has a good payout and low enough defenses for you to clear it confidently."
+\n\n⚡ Before we talk about how to perform a good attack, IT IS CRITICAL that you take your time using the “next” button to find a base that has a good payout and low enough defenses for you to clear it confidently.",
 	"native": false,
-	"background":#415c21
+	"background":"#415c21"
       },
 	    {
        "elem_tit": "Army Composition",
         "elem_image": "https://jayisgames.com/images/coc/Clash_of_clans-Begin02.jpg",
-        "txt_color": #e31058,
+        "txt_color": "#e31058",
         "txt_size": "18",
         "link": false,
 	"link_titl": "Gems",
@@ -62,14 +62,14 @@
         "img_link": "https://www.google.com",
         "text": " \n\n⚡ Tanks have high hitpoints, but slow damage output. You will want to have these guys up in front taking hits for everyone else. Enemy towers are stupid, and will target the first thing that gets in range, and then keep hitting it until it dies or they die. After that, they target the closest. Tanks are troops designed to withstand enemy tower shots, and to position themselves to get hit first by enemy towers.
 \n\n⚡ Brawlers have medium hitpoints, short range, and high damage output. You will want to deploy these midway through the attack to be available to burst through the tough, central core of the enemy base and to clean up straggler towers afterwards. They can withstand a few hits, but they will get ahead of your tanks quickly after deployed, so don’t deploy them too early, or they won’t survive to the core.
-\n\n⚡ Nukers have very low hitpoints but very high damage. These absolutely must have a tank in front of them, as they will very quickly die if targeted. However, they are necessary to deal enough damage to take out the enemy base in time to win. Place them behind your line of tanks immediately after the tanks are in place."
+\n\n⚡ Nukers have very low hitpoints but very high damage. These absolutely must have a tank in front of them, as they will very quickly die if targeted. However, they are necessary to deal enough damage to take out the enemy base in time to win. Place them behind your line of tanks immediately after the tanks are in place.",
 	"native": false,
-	"background":#415c21
+	"background":"#415c21"
       },
 	    {
        "elem_tit": "Effective Troop Deployment",
         "elem_image": "https://jayisgames.com/images/coc/Clash_of_clans_extractorsLvL5.jpg",
-        "txt_color": #e31058,
+        "txt_color": "#e31058",
         "txt_size": "18",
         "link": false,
 	"link_titl": "Gems",
@@ -77,23 +77,23 @@
         "img_link": "https://www.google.com",
         "text": " \n\n⚡ There is an important concept called “funneling” with which you must become familiar. Basically, when troops destroy one building, they will move on to attack the next closest building.
 \n\n⚡ What this means is that if you put your troops all in one spot, they will quickly destroy it and then form two clusters that each move sideways around the enemy base, taking lots of damage without eliminating the main defenses or getting to the town hall.
-\n\n⚡ In order to avoid that happening, what you need to do is start out with a line formation that clears a whole side together (start on the corners and fill in the middle alternating sides), “funneling” your troops forward instead of sideways. If every building to each side is already destroyed simultaneously, the only way remaining to move is forward! That’s how you get your guys to go straight in to the middle."
+\n\n⚡ In order to avoid that happening, what you need to do is start out with a line formation that clears a whole side together (start on the corners and fill in the middle alternating sides), “funneling” your troops forward instead of sideways. If every building to each side is already destroyed simultaneously, the only way remaining to move is forward! That’s how you get your guys to go straight in to the middle.",
 	"native": false,
-	"background":#415c21
+	"background":"#415c21"
       },
 	    {
        "elem_tit": "The Clan Castle In Battle",
         "elem_image": "https://jayisgames.com/images/coc/clash_of_clans_tutorial2.png",
-        "txt_color": #e31058,
+        "txt_color": "#e31058",
         "txt_size": "18",
         "link": false,
 	"link_titl": "Gems",
 	"linkUrl": "https://www.google.com",
         "img_link": "https://www.google.com",
         "text": " \n\n⚡  you should also be aware that some enemy bases will have troops stationed for defense in their clan castle. You cannot tell whether a base has castle defenses or not until you get close to it, so you may want to test with a single archer or barbarian before you deploy your main forces.
-If you want to defeat a base that has defenders, try to use an archer or a giant to activate the castle defense, and then a series of archers to lure them to a corner where you can kill them without enemy towers interfering. Use a ring of archers to soak up their attacks and then some wizards behind to deal out damage to kill them. If you have it, also poison them!"
+If you want to defeat a base that has defenders, try to use an archer or a giant to activate the castle defense, and then a series of archers to lure them to a corner where you can kill them without enemy towers interfering. Use a ring of archers to soak up their attacks and then some wizards behind to deal out damage to kill them. If you have it, also poison them!",
 	"native": false,
-	"background":#415c21
+	"background":"#415c21"
       }
     ]
 
