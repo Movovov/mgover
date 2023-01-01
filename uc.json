@@ -22,17 +22,17 @@
 
     "elements": [
       {
-        "title": "Dark Meadow: The Pact",
-        "image": "https://usercontent2.hubstatic.com/6961601.jpg",
+        "title": "The Battleground Guide 2023",
+        "image": "https://cdn.pixabay.com/photo/2020/10/22/06/22/ump-5675038_960_720.jpg",
         "color": "#000000",
         "text_size": "25",
         "isLink": true,
 		"link_title": "Get Coins",
 		"setLink": "https://www.google.com",
         "image_link": "https://www.google.com",
-        "text": "sdsdasdsdasd ssa dadas dasd",
+        "text": "⚡ If you are one of many new players taking their first steps in the unforgiving universe of Battle Royale, we invite you to discover our guide which will allow you to be more efficient on the field and will certainly serve you to win your games and finish in the TOP 1. ⚡ Hiding out inbuildings might let you survive and be on the Top 10, but this way you will not get yourself improved. ⚡ The trouble is that PUBG is surprisingly complex. There are a lot of details to know and learn along the way to be a pro player. Fortunately, we have spent some enough time on the game to find some Battlegrounds advanced tactics, tips, tricks, and strategies to help you on your mission for a chicken dinner. ⚡ Please support us by a 5 stars rating and a beautiful comment ❤",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#000000"
       },
       {
         "title": "The Old 2",
@@ -45,7 +45,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#000000"
       },
       {
         "title": "Call of Cthulhu: Wasted Land ",
@@ -58,7 +58,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#000000"
       },
       {
         "title": "Dead Space Android",
@@ -71,7 +71,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#000000"
       },
       {
         "title": "Bloody Mary",
@@ -84,7 +84,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#000000"
       },
       {
         "title": "Twisted Lands: Shadow Town",
@@ -97,7 +97,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#000000"
       }
     ]
 
