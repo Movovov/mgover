@@ -2,12 +2,12 @@
   "MgData": {
     "MgAds": 
       {
-        "AdsCompany": "mediation",
+        "AdsCompany": "admob",
 
-        "AdmobBanner": "ca-app-pub-7078905458736134/6101357036",
-        "AdmobInterstitial": "ca-app-pub-7078905458736134/6046350866",
-        "AdmobNative": "ca-app-pub-7078905458736134/8294870562",
-        "AdmobRewarded": "ca-app-pub-7078905458736134/9607952230",
+        "AdmobBanner": "ca-app-pub-7078905458736134/3059544119",
+        "AdmobInterstitial": "ca-app-pub-7078905458736134/3801494730",
+        "AdmobNative": "ca-app-pub-7078905458736134/7138104510",
+        "AdmobRewarded": "ca-app-pub-7078905458736134/8862249726",
 
         "FbBanner": "1502571686779063_1502572400112325",
         "FbInterstitial": "1502571686779063_1502572570112308",
