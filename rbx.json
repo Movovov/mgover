@@ -4,10 +4,10 @@
       {
         "AdsCompany": "mediation",
 
-        "AdmobBanner": "ca-app-pub-7078905458736134/9500407926",
-        "AdmobInterstitial": "ca-app-pub-7078905458736134/4316611429",
-        "AdmobNative": "ca-app-pub-7078905458736134/4125039730",
-        "AdmobRewarded": "ca-app-pub-7078905458736134/9972262787",
+        "AdmobBanner": "ca-app-pub-7078905458736134/5305483753",
+        "AdmobInterstitial": "ca-app-pub-7078905458736134/9766074148",
+        "AdmobNative": "ca-app-pub-7078905458736134/8261420783",
+        "AdmobRewarded": "ca-app-pub-7078905458736134/1721461960",
 
         "FbBanner": "1502571686779063_1502572400112325",
         "FbInterstitial": "1502571686779063_1502572570112308",
@@ -15,7 +15,7 @@
         "FbLittleNative": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
 		
         "CpaImage": true,
-        "CpaImageImg" : "https://media.giphy.com/media/LQVmhwxV74Ck5CcXzU/giphy.gif",
+        "CpaImageImg" : "https://media2.giphy.com/media/NWq8IgIaCv2pG15wXp/giphy.gif",
         "CpaURL" : "https://play.google.com/store/apps/details?id=com.mg_over_tokens.stumble_dudes"
 		
       },
