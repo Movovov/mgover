@@ -1,0 +1,105 @@
+{
+  "MgData": {
+    "MgAds": 
+      {
+        "AdsCompany": "mediation",
+
+        "AdmobBanner": "ca-app-pub-7078905458736134/5305483753",
+        "AdmobInterstitial": "ca-app-pub-7078905458736134/9766074148",
+        "AdmobNative": "ca-app-pub-7078905458736134/8261420783",
+        "AdmobRewarded": "ca-app-pub-7078905458736134/1721461960",
+
+        "FbBanner": "1502571686779063_1502572400112325",
+        "FbInterstitial": "1502571686779063_1502572570112308",
+        "FbNative": "1502571686779063_1502572666778965",
+        "FbLittleNative": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+		
+        "CpaImage": false,
+        "CpaImageImg" : "https://media2.giphy.com/media/NWq8IgIaCv2pG15wXp/giphy.gif",
+        "CpaURL" : "https://play.google.com/store/apps/details?id=com.mg_over_tokens.stumble_dudes"
+		
+      },
+
+    "elements": [
+      {
+        "title": "How To Make A game",
+        "image": "https://images.pexels.com/photos/15290406/pexels-photo-15290406.jpeg",
+        "color": "#ffffff",
+        "text_size": "20",
+        "isLink": false,
+		"link_title": "Get Coins",
+		"setLink": "https://www.google.com",
+        "image_link": "https://www.google.com",
+        "text": "If you’re looking to start earning Robux, the best place to start is by building your own game within The Game that other players can check out. After creating and submitting your game, you’ll have an opportunity to grow a following and earn Robux based on the number of premium players that play your game. The best part is anyone can enroll in this program and start earning Robux based on player engagement as well as other potential revenue sources.",
+        "isNative": false,
+		"background": "#000000"
+      },
+      {
+        "title": "How To Sell Random Chance Items",
+        "image": "https://cdn.pixabay.com/photo/2023/01/06/16/25/boy-7701662_960_720.jpg",
+		"color": "#ffffff",
+        "text_size": "20",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Anyone who makes a game on The Game can choose to sell random chance items that may come in hand with a particular challenge or reduce the amount of grind required to progress. The pricing is left up to the game maker and the only stipulation is that players must be aware of the odds of getting a particular item prior to making a purchase. With that said, it’s all too common to see creators make a mistake and accidentally violate The Game’s terms of service, so make sure to do your research before pricing any items.",
+        "isNative": false,
+		"background": "#000000"
+      },
+      {
+        "title": "Designing Custom Clothing ",
+        "image": "https://cdn.pixabay.com/photo/2022/04/30/02/12/The Game-7164709_960_720.jpg",
+		"color": "#FFFFFF",
+        "text_size": "20",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Another great The Game side hustle is designing custom clothing to sell to other players online. The game allows you to create pants, shirts, hats, jackets, and many more accessories for player avatars that can be purchased directly in the The Game store. Again, pricing here is flexible but requires you to do a fair amount of research to see what similar designs are going for and price yours accordingly.",
+        "isNative": false,
+		"background": "#000000"
+      },
+      {
+        "title": "Seting Up Private Game Servers",
+        "image": "https://images.pexels.com/photos/15290406/pexels-photo-15290406.jpeg",
+		"color": "#FFFFFF",
+        "text_size": "20",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Once you have a game made, The Game gives you the option to enable private game servers for anyone willing to pay an additional fee. This is great for groups of friends that want to limit the number of strangers in their session and play strictly with each other.",
+        "isNative": false,
+		"background": "#000000"
+      },
+      {
+        "title": "Selling Consumable Items",
+        "image": "https://cdn.pixabay.com/photo/2023/01/06/16/25/boy-7701662_960_720.jpg",
+		"color": "#FFFFFF",
+        "text_size": "20",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "In addition to random chance items, game makers can offer players a wide array of consumable items to aid them as they play. These types of items are generally a lot cheaper and can be bought multiple times, making them excellent for passive income. We suggest looking for parts of your game that may be challenging for some players and coming up with item solutions that map tip the odds in their favor.",
+        "isNative": false,
+		"background": "#000000"
+      },
+      {
+        "title": "Selling Access To Your Game",
+        "image": "https://cdn.pixabay.com/photo/2022/04/30/02/12/The Game-7164709_960_720.jpg",
+		"color": "#FFFFFF",
+        "text_size": "20",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Along with selling access to private game servers, you can monetize access to your game altogether. The Game gives you the option to put your game on the market for anywhere between 25 and 1,000 Robux as long as you meet the criteria.",
+        "isNative": false,
+		"background": "#000000"
+      }
+    ]
+
+  }
+}
