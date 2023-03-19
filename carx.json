@@ -4,9 +4,9 @@
       {
         "AdsCompany": "mediation",
 
-        "AdmobBanner":"ca-app-pub-7078905458736134/8833532741",
-        "AdmobInterstitial":"ca-app-pub-7078905458736134/6267063241",
-        "AdmobNative": "ca-app-pub-7078905458736134/9144793439",
+        "AdmobBanner":"ca-app-pub-7078905458736134/9135228141",
+        "AdmobInterstitial":"ca-app-pub-7078905458736134/2569819799",
+        "AdmobNative": "ca-app-pub-7078905458736134/2047075614",
         "AdmobRewarded": "ca-app-pub-7078905458736134/8023283451",
 
         "FbBanner": "1502571686779063_1502572400112325",
@@ -14,8 +14,8 @@
         "FbNative": "1502571686779063_1502572666778965",
         "FbLittleNative": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
 		
-        "CpaImage": true,
-        "CpaImageImg" : "https://media2.giphy.com/media/8rFNEqQYRBEOlaONOj/giphy.gif",
+        "CpaImage": false,
+        "CpaImageImg" : "https://html5.gamedistribution.com/e1704c5264514b4d8a1ab33308269250/",
         "CpaURL" : "https://play.google.com/store/apps/details?id=com.mg_over_tokens.stumble_dudes"
 		
       },
