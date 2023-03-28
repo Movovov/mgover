@@ -4,10 +4,10 @@
       {
         "AdsCompany": "mediation",
 
-        "AdmobBanner":"ca-app-pub-7078905458736134/9135228141",
-        "AdmobInterstitial":"ca-app-pub-7078905458736134/2569819799",
-        "AdmobNative": "ca-app-pub-7078905458736134/2047075614",
-        "AdmobRewarded": "ca-app-pub-7078905458736134/8023283451",
+        "AdmobBanner":"ca-app-pub-7078905458736134/8362170126",
+        "AdmobInterstitial":"ca-app-pub-7078905458736134/7049088459",
+        "AdmobNative": "ca-app-pub-7078905458736134/1214022438",
+        "AdmobRewarded": "ca-app-pub-7078905458736134/2950061343",
 
         "FbBanner": "1502571686779063_1502572400112325",
         "FbInterstitial": "1502571686779063_1502572570112308",
@@ -15,8 +15,8 @@
         "FbLittleNative": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
 		
         "CpaImage": false,
-        "CpaImageImg" : "https://html5.gamedistribution.com/e1704c5264514b4d8a1ab33308269250/",
-        "CpaURL" : "https://play.google.com/store/apps/details?id=com.mg_over_tokens.stumble_dudes"
+        "CpaImageImg" : "https://play.famobi.com/drift-cup-racing/",
+        "CpaURL" : "https://fastsvr.com/list/498307"
 		
       },
 
