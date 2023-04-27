@@ -1,0 +1,120 @@
+{
+  "MgData": {
+    "MgAds": 
+      {
+        "AdsCompany": "mediation",
+
+        "AdmobBanner": "ca-app-pub-7078905458736134/2342472512",
+        "AdmobInterstitial": "ca-app-pub-7078905458736134/5430249406",
+        "AdmobNative": "ca-app-pub-7078905458736134/6659570596",
+        "AdmobRewarded": "ca-app-pub-7078905458736134/6968893484",
+
+        "FbBanner": "1502571686779063_1502572400112325",
+        "FbInterstitial": "1502571686779063_1502572570112308",
+        "FbNative": "1502571686779063_1502572666778965",
+        "FbLittleNative": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+		
+        "CpaImage": false,
+        "CpaImageImg" : "https://html5.gamemonetize.co/qo4jxloqqc943u132zu0rldqzcr74l68/",
+        "CpaURL" : "https://fastsvr.com/list/501638"
+		
+      },
+
+    "elements": [
+	   
+      {
+        "title": "How To Install Mods",
+        "image": "https://static.gameloop.com/img/824bec27350aabae7bdd042be5f3b97c.jpg",
+        "color": "#ffffff",
+        "text_size": "20",
+        "isLink": false,
+		"link_title": "Get Coins",
+		"setLink": "https://www.google.com",
+        "image_link": "https://www.google.com",
+        "text": "\n⚡1. Download the described Roblox Doors Pack melon playground mods. \n⚡2. Launch File Explorer, Android Zip, or Zarchiver according to the specifications. \n⚡3. zip, choose "Extract to." (The mod file extension is.melmod). \n⚡4. Put the.MELSAVE file in the corresponding folder to add the item or skin to the Android edition of Melon Playground. \n Android/ data/ com is the installation directory for Melon Playground versions lower than 13.2. \n TwentySeven.MelonPlayground/​files/Saves \n⚡5. Put the.MELMOD file in the corresponding folder to add the item or skin it contains to Melon Playground for Android: \n Android/ data/ com is the installation directory for Melon Playground versions lower than 13.2. \n TwentySeven. \n MelonPlayground/​files/​Mods \n The installation path for Melon Playground Above 13.2 is Android/ data/com.studio27.MelonPlayground/files/Mods. \n⚡6. Restart the game to use the imported mod after finishing these steps. Restart the game to use the mod after that. 2. After downloading several modules, each module can be arranged under a separate category in the menu bar on the left side of the map. Please be diligent in your search. 3. Using too many modules to load may result in a black screen and jamming due to an issue with the game itself. By clearing the module function and restarting the game, you can fix this issue.",
+        "isNative": false,
+		"background": "#000000"
+      },
+      {
+        "title": "Roblox Doors Pack",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhssaExPoKqis5QMTA1DJGtkmO_KZg2IDlyRwRV6DWk-y9_pVOjJc4M8EhF4Z1mnEfABlV4s2GiTff7RbgS6EOzbLLx4esWb-gcdXX5LmxNoveBy0--hgE6rrNyj_t64s2c8VDQp0SHbdRQeE9Xm3VkgZo6v9tzbSlm6Z9rNk0wFwjMpFNHrLAp63Zp/w680/maxresdefault%20(3).jpg",
+		"color": "#ffffff",
+        "text_size": "20",
+        "isLink": true,
+		"link_title": "DOWNLOAD MOD",
+		"setLink": "https://d2.melmod.com/mods/Roblox_Doors.zip",
+        "image_link": "",
+        "text": "",
+        "isNative": false,
+		"background": "#000000"
+      },
+      {
+        "title": "WWW2 Pack",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrt_zbRFjDloW-o9lBzvW6agQFqyVuTc2XcbpODcVGTsiRMixeZN1tUNSvF-x_mF6tnPF0p7_kD0sL8PtwQRf8OGS93rGozyjAJb02O5NaabnCTrCm7JFVYbWRzjsRw7UWZTZMmi4Yjxxupk5vFal8QZtSuqLD9_TgqzHMu6PbC2RATLCZ8sX1jGXE/w680/ww2.png",
+		"color": "#FFFFFF",
+        "text_size": "20",
+       "isLink": true,
+		"link_title": "DOWNLOAD MOD",
+		"setLink": "https://d2.melmod.com/mods/974677970dc9447ea12fc324fa92cd82162209.zip",
+        "image_link": "",
+        "text": "",
+        "isNative": false,
+		"background": "#000000"
+      },
+      {
+        "title": "Truck for melon mod",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6n-qwN8koERps2AnXOo082GZpHc4YkVsQmsKtF-LH4-BMvKomlT8DrxrwVa3t-1O36ZO2tz1fgrKx_EUlnJZD7naU4tfQZKO5bhdap7awnmuimyNYzBzuyk1yHE_lVVtEyt0sR60gtcEwhaRJ2Qr1xF_3oeu7CDGe4-GMKlBXK2ODa8ZDOeoTe8ma/w680/maxresdefault%20(2).jpg",
+		"color": "#FFFFFF",
+        "text_size": "20",
+       "isLink": true,
+		"link_title": "DOWNLOAD MOD",
+		"setLink": "https://d2.melmod.com/mods/Truck.zip",
+        "image_link": "",
+        "text": "",
+        "isNative": false,
+		"background": "#000000"
+      },
+      {
+        "title": "Cartoon Cat",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-nBLvHUFZD3OvnVMO7ZQcGLANOQGFseJim6J8nCfxJD8D0oEo3QKNEeEpFj310S7h9KVOUPZ5XB3-crzAvm6LP1_1OWquFeyYMXjOdGpOO6pQPNlYHS0oNW95xlsq3oUzkOf0osOtwbvV4uDCfuIwuTN7EdzaNPhfIZUQwIJsP5lAS13XydFv8fvH/w680/maxresdefault%20(1).jpg",
+		"color": "#FFFFFF",
+        "text_size": "20",
+       "isLink": true,
+		"link_title": "DOWNLOAD MOD",
+		"setLink": "https://d2.melmod.com/mods/cartoon_cat.zip",
+        "image_link": "",
+        "text": "",
+        "isNative": false,
+		"background": "#000000"
+      },
+       {
+        "title": "Poppy Playtime Mod",
+        "image": "https://images.7news.com.au/publication/C-6336797/e22e296b778aae6e6d2a7946f745bde01dba3869-16x9-x33y0w692h389.jpg",
+		"color": "#FFFFFF",
+        "text_size": "20",
+       "isLink": true,
+		"link_title": "DOWNLOAD MOD",
+		"setLink": "https://d2.melmod.com/mods/cartoon_cat.zip",
+        "image_link": "",
+        "text": "",
+        "isNative": false,
+		"background": "#000000"
+      }, 
+     
+      {
+        "title": "Police",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiviAX1skQncHsyOnGNCOr5OwrCNHaupuh8ins_Y4Rd_To5Q8FMMby9BYvtPPjcl0X0y73TFHNAIoLRsPrflFXWqlJa187wcRyfuobSFDBlyHuJKnWcTD9UH3321ptX62kHm_5cR4sEJ7zBWdT8RlCN3E9ZLlKrya_ZApFR8-rXmtRJH8tjWllC62u4/w680/maxresdefault%20(2).jpg",
+		"color": "#FFFFFF",
+        "text_size": "20",
+     "isLink": true,
+		"link_title": "DOWNLOAD MOD",
+		"setLink": "https://d2.melmod.com/mods/Police_Pack.zip",
+        "image_link": "",
+        "text": "",
+        "isNative": false,
+		"background": "#000000"
+      }
+    ]
+
+  }
+}
