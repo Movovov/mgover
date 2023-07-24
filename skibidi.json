@@ -1,0 +1,94 @@
+{
+  "MgData": {
+    "MgAds": 
+      {
+        "AdsCompany": "admob",
+
+        "AdmobBanner": "ca-app-pub-7078905458736134/1732953990",
+        "AdmobInterstitial": "ca-app-pub-7078905458736134/7918254247",
+        "AdmobNative": "ca-app-pub-7078905458736134/8106790655",
+        "AdmobRewarded": "ca-app-pub-7078905458736134/7528986409",
+
+        "FbBanner": "1502571686779063_1502572400112325",
+        "FbInterstitial": "1502571686779063_1502572570112308",
+        "FbNative": "1502571686779063_1502572666778965",
+        "FbLittleNative": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+		
+        "CpaImage": false,
+        "CpaImageImg" : "https://storage.y8.com/video-igrice/html5/skibidi-toilet-vs-wario/",
+        "CpaURL" : "https://fastsvr.com/list/501638"
+		
+      },
+
+    "elements": [
+      {
+        "title": "wednesday addams",
+        "image": "https://cdn.pixabay.com/photo/2022/12/07/12/12/wednesday-addams-7641024_1280.jpg",
+        "color": "#ffffff",
+        "text_size": "20",
+        "isLink": false,
+		"link_title": "Get Coins",
+		"setLink": "https://www.google.com",
+        "image_link": "https://www.google.com",
+        "text": "Wednesday Addams style. Thanks to the Netflix series called Wednesday, more people have been introduced to the wickedly kooky Wednesday Addams, the one and only daughter of Gomez and Morticia Addams.",
+	      "isNative": false,
+		"background": "#000000"
+      },
+      {
+        "title": "From a cartoon to a TV show",
+        "image": "https://us.knews.media/wp-content/uploads/2022/11/Wednesday-Season-1-Wednesday-Addams-Hyde-Monster-Nightshades-Book-780x470.jpg",
+		"color": "#ffffff",
+        "text_size": "20",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "From a cartoon to a TV show, to films, stage productions, and animated films, The Addams Family has come a long way in many forms from its original conception as a cartoon strip to Netflix’s newly-released TV series Wednesday, starring Jenna Ortega as Wednesday Addams and full of Easter eggs referencing its many incarnations. Named after the cartoonist Charles Addams, who first published his cartoons in The New Yorker, the Addams family is the inverse of the All-American, WASP, middle-class suburban family.",
+	      "isNative": false,
+		"background": "#000000"
+      },
+      {
+        "title": "loving and supportive",
+        "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2022/11/wednesday-addams-parents.jpg",
+		"color": "#FFFFFF",
+        "text_size": "20",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Despite their fascination with death, suffering, and all things morbid of the sort, the Addams family are loving and supportive to each other, unbound by social niceties and the expectation to present proper appearances. The Tim Burton produced Wednesday, however, strays from the themes of the original Addams Family canon slightly, presumably to update the context of teenage angst for the modern viewer.",
+	      "isNative": false,
+		"background": "#000000"
+      },
+      
+      {
+        "title": "The Scooby Doo Crossover Episode",
+        "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2022/11/sheriff-galpin-wednesday-addams.jpg",
+		"color": "#FFFFFF",
+        "text_size": "20",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "In Wednesday season 1 episode 4, Jericho’s town sheriff makes a Scooby Doo reference that returns the favor for The New Scooby Doo Movies featuring the Addams family in a crossover episode in 1972.",
+	      "isNative": false,
+		"background": "#000000"
+      },
+     
+      {
+        "title": "Where Wednesday’s Name Came From",
+        "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2022/11/wednesday-addams-parents.jpg",
+		"color": "#FFFFFF",
+        "text_size": "20",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Originally, all the characters in the Addams family had no names. The title of Wednesday episode 1, which Morticia explains in the episode, is an Easter egg of where creator Charles Addams first found inspiration for Wednesday’s name when his nameless cartoon characters were to be adapted for television.",
+	      "isNative": false,
+		"background": "#000000"
+      }
+    ]
+
+  }
+}
