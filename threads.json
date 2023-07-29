@@ -23,7 +23,7 @@
     "elements": [
       {
         "title": "wednesday addams",
-        "image": "https://github.com/Movovov/mgover/blob/main/bg1.jpg",
+        "image": "https://raw.githubusercontent.com/Movovov/mgover/main/bg1.jpg",
         "color": "#ffffff",
         "text_size": "20",
         "isLink": false,
